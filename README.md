@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Chand  🙋 I am a Frontend developer with a focus and coding enthusiast who loves problem solving , 
       Maths and Computer💻 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="code"/>
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="code"/>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaskumain&label=Profile%20views&color=0e75b6&style=flat" alt="vikaskumain" /> </p>
 
