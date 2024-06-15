@@ -1,8 +1,8 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://www.linkedin.com/in/vikas-kumain-a67834234/)
-<h1 align="center">Hi 👋, I'm Vikas Chand  🙋 I am a Frontend developer with a focus and coding enthusiast who loves problem solving, 
+[![MasterHead ](  https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://www.linkedin.com/in/vikas-kumain-a67834234/)
+<h1 align="centre">Hi 👋, I'm Vikas Chand  🙋 I am a Frontend developer with a focus and coding enthusiast who loves problem-solving, 
       Maths and Computer💻 </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="code"/>
+<h3 align="center ">A passionate frontend developer from India</h3>
+<img align="center" width="200" height="200" style="border-radius:50%; border:2px solid #000;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="code"/>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaskumain&label=Profile%20views&color=0e75b6&style=flat" alt="vikaskumain" /> </p>
 
