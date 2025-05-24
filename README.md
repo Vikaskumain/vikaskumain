@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/vikaskumain" target="blank"><img src="https://img.shields.io/twitter/follow/vikaskumain?logo=twitter&style=for-the-badge" alt="vikaskumain" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, Python, Data Analyst, Excel, Power BI, 
+- 🌱 I’m currently learning **Next.js, Python, Data Analyst, Excel, Power BI, SQL  
 
 - 👨‍💻 All of my projects are available at [https://portfolio-vikas-kumain.netlify.app/](https://portfolio-vikas-kumain.netlify.app/)
 
-- 💬 Ask me about **Html, Css ,javaScript,React.js ,Tailwind-CSS,Bootstrap,Git,Github,Material-ui**
+- 💬 Ask me about **Html, Css ,javaScript,React.js ,Tailwind-CSS,Bootstrap,Git,Github,Material-ui , Python, Data Analyst, Excel, Power BI, SQL **
 
 - 📫 How to reach me **vikaskumain2266@gmail.com**
 
