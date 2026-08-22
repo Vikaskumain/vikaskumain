@@ -1,7 +1,7 @@
 [![MasterHead ](  https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://www.linkedin.com/in/vikas-kumain-a67834234/)
-<h1 align="centre">Hi 👋, I'm Vikas Chand  🙋 I am a Frontend developer and DATA Analyst with a focus and coding enthusiast who loves problem-solving, 
+<h1 align="centre">Hi 👋, I'm Vikas Chand  🙋. I am a  DATA Analyst and Frontend developer  with a focus on coding and a coding enthusiast who loves problem-solving, 
       Maths and Computer💻 </h1>
-<h3 align="center ">A passionate frontend developer , & , DATA Analyst from India</h3>
+<h3 align="center ">A passionate DATA Analyst from India , & , front end developer </h3>
 <img align="center" width="200" height="200" style="border-radius:50%; border:2px solid #000;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="code"/>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikaskumain&label=Profile%20views&color=0e75b6&style=flat" alt="vikaskumain" /> </p>
